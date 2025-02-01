@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @capellja (James Capellan)</h1>
-<h3 align="center">A 3rd year student in DCU Computer Science</h3>
+<h3 align="center">A 4rd year student in DCU Computer Science</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
